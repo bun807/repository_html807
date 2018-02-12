@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+
+@media screen and (min-width:100px){
+	.lesson{
+		width:100%;
+	}
+	.txt-contents{
+		padding-bottom:48px;
+	}
+	
+}
+
+
+
+
+
+
+@media screen and (min-width:480px){
+	.lesson{
+		width:100%;
+	}
+	.txt-contents{
+		padding-bottom:48px;
+	}
+	
+}
+
+@media screen and (min-width:768px){
+	.lesson{
+		width:50%;
+	}
+	.txt-contents{
+		padding-bottom:48px;
+	}
+}
+
+
+@media screen and (min-width:1024px){
+	.lesson{
+		width:25%;
+	}
+	.txt-contents{
+		padding-bottom:48px;
+	}
+	.navi{
+		width:960px;
+		margin:0 auto;
+	}
+}
+
+@media screen and (min-width:2000px){
+
+}
