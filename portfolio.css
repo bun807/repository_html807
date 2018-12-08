@@ -16,8 +16,25 @@ a {
 }
 
 h2 {
-padding: 0.25em 0.5em;
-color: #494949;
-background: transparent;
-border-left: solid 5px #7db4e6;
+    background: #f3f3f3;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(243, 243, 243);
+    padding: 1.25rem 2rem;
+    padding-top: 1.25rem;
+    padding-right: 2rem;
+    padding-bottom: 1.25rem;
+    padding-left: 2rem;
+    margin: 5rem 0 2.5rem;
+    margin-top: 5rem;
+    margin-right: 0px;
+    margin-bottom: 2.5rem;
+    margin-left: 0px;
 }
