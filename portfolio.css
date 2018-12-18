@@ -11,13 +11,20 @@ a {
   text-decoration: none;
 }
 
+.past{
+  margin-right:20%;
+  margin-left:20%;
+}
+
+
+
+
+
 .clear {
   clear: left;
 }
 
-.past{
-   margin:10px
-}
+
 
 h2 {
   padding: 0.25em 0.5em;
