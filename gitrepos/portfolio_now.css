@@ -20,7 +20,9 @@ a {
   float:right;
 }
 
-
+img{
+  width:100%
+}
 
 .clear {
   clear: left;
