@@ -5,10 +5,11 @@
     margin-bottom: 50px;
   }
 
-  p{
-    margin:20px
-  }
-  
+
+.past{
+  margin-right:10%;
+  margin-left:10%;
+}
   
   footer {
     text-align: center;
@@ -32,6 +33,11 @@
   .btn {
     width: 100%;
   }
+
+.past{
+  margin-right:5%;
+  margin-left:5%;
+}
 
   .facebook {
     margin-bottom: 10px;
