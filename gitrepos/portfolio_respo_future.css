@@ -15,13 +15,6 @@
     text-align: center;
   }
 
-  .top-wrapper h1 {
-    font-size: 32px;
-  }
-
-  .heading h2 {
-    font-size: 20px;
-  }
 }
 
 /* スマホ向けレイアウト */
@@ -30,38 +23,10 @@
     width: 100%;
   }
 
-  .btn {
-    width: 100%;
-  }
 
 .past{
   margin-right:5%;
   margin-left:5%;
 }
 
-  .facebook {
-    margin-bottom: 10px;
-  }
-  
-  .top-wrapper {
-    text-align: left;
-  }
-
-  /* header-rightクラスのdisplayをnoneに指定してください */
-  .header-right{
-    display:none;
-  }
-  
-  /* menu-iconクラスのdisplayをblockに指定してください  */
-  .menu-icon{
-    display:block;
-  }
-  
-  .top-wrapper h1 {
-    font-size: 24px;
-  }
-
-  .top-wrapper p {
-    font-size: 14px;
-  }
 }
