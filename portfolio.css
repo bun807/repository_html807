@@ -16,9 +16,13 @@ a {
   margin-left:20%;
 }
 
+.past back{
+  float:right;
+}
 
-
-
+img{
+  width:100%
+}
 
 .clear {
   clear: left;
